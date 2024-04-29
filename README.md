@@ -1,4 +1,4 @@
-👋 Hi, @Sreejith779! Nice to meet you!
+👋 Hi, @Sreejith779!
 👀 I’m interested in technology, programming, and exploring new ideas.
 🌱 I’m currently learning web development and honing my skills in Python programming.
 💞️ I’m looking to collaborate on open-source projects or any interesting tech-related initiatives.

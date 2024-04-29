@@ -1,6 +1,6 @@
 👋 Hi, @Sreejith779!
 👀 I’m interested in technology, programming, and exploring new ideas.
-🌱 I’m currently learning web development and honing my skills in Python programming.
+🌱 I’m currently learning Flutter and honing my skills in Dart programming.
 💞️ I’m looking to collaborate on open-source projects or any interesting tech-related initiatives.
 📫 You can reach me via DM here on this platform or through my email: [your email address].
 😄 Pronouns: He/Him.
